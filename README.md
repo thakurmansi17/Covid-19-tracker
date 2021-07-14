@@ -75,18 +75,4 @@ To setup the app for development on your local machine, please follow the instru
 
 4. Visit <http://localhost:3000>
 
-## [Live Demo](https://world19covid.web.app/)
 
-<a href= "https://world19covid.web.app/">
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=plastic&logo=firebase"/></a> <a href= "https://covid19.mathdro.id/api/">
-<img src="https://img.shields.io/badge/built%20with-mathroid-orange"/></a>
-
-Don't forget to give a star :star: for this repo :slightly_smiling_face:
-
-## <img alt='Article' height='25px' src ="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png"/> Related Article
-
-[Let's Create a COVID-19 Tracker using React.js](https://towardsdatascience.com/lets-create-a-covid-19-tracker-using-react-js-5a3a0265a633) - _Sabesan Sathananthan_
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](./.github/LICENSE) file for details
